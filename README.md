@@ -16,10 +16,9 @@ Please Fork and comment on addistions you wish to add or contribute to.
 
 Software Used and Requirments
 ======================
-*Flame Robin (http://www.flamerobin.org/)
-*FireBird (http://www.firebirdsql.org/)
-*Fishbowl 13.5.201 (lisence required not open source)
-
+1. Flame Robin (http://www.flamerobin.org/)
+2. FireBird (http://www.firebirdsql.org/)
+3. Fishbowl 13.5.201 (lisence required not open source)
 
 
 Maintainers
